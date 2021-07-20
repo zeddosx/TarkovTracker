@@ -10,7 +10,8 @@
         "title": "Debut",
         "locales": {
             "en": "Debut",
-            "ru": "Проба пера"
+            "ru": "Проба пера",
+            "cs": "Debut"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Debut",
         "exp": 600,
@@ -54,7 +55,8 @@
         "title": "Checking",
         "locales": {
             "en": "Checking",
-            "ru": "Проверка на вшивость"
+            "ru": "Проверка на вшивость",
+            "cs": "Kontrola"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Checking",
         "exp": 800,
@@ -96,7 +98,8 @@
         "title": "Shootout picnic",
         "locales": {
             "en": "Shootout picnic",
-            "ru": "Пикник со стрельбой"
+            "ru": "Пикник со стрельбой",
+            "cs": "Piknik na střelnici"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shootout_picnic",
         "exp": 2000,
@@ -131,7 +134,8 @@
         "title": "Delivery from the past",
         "locales": {
             "en": "Delivery from the past",
-            "ru": "Посылка из прошлого"
+            "ru": "Посылка из прошлого",
+            "cs": "Zásilka z minulosti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
         "exp": 4100,
@@ -182,7 +186,8 @@
         "title": "BP depot",
         "locales": {
             "en": "BP depot",
-            "ru": "Нефтянка"
+            "ru": "Нефтянка",
+            "cs": "Depo BP"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/BP_depot",
         "exp": 2900,
@@ -250,7 +255,8 @@
         "title": "Bad rep evidence",
         "locales": {
             "en": "Bad rep evidence",
-            "ru": "Компромат"
+            "ru": "Компромат",
+            "cs": "Důkaz špatné pověsti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_rep_evidence",
         "exp": 4200,
@@ -294,7 +300,8 @@
         "title": "Ice cream cones",
         "locales": {
             "en": "Ice cream cones",
-            "ru": "Рожки для мороженого"
+            "ru": "Рожки для мороженого",
+            "cs": "Zmrzlinové kornouty"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ice_cream_cones",
         "exp": 5400,
@@ -332,7 +339,8 @@
         "title": "Postman Pat",
         "locales": {
             "en": "Postman Pat",
-            "ru": "Почтальон Печкин"
+            "ru": "Почтальон Печкин",
+            "cs": "Pošťák Pat - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
         "exp": 6000,
@@ -375,7 +383,8 @@
         "title": "Shaking up teller",
         "locales": {
             "en": "Shaking up teller",
-            "ru": "Тряхнуть кассира"
+            "ru": "Тряхнуть кассира",
+            "cs": "Třesoucí se pokladní"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shaking_up_teller",
         "exp": 6100,
@@ -424,7 +433,8 @@
         "title": "Perfect mediator",
         "locales": {
             "en": "Perfect mediator",
-            "ru": "Идеальный переговорщик"
+            "ru": "Идеальный переговорщик",
+            "cs": "Perfektní prostředník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Perfect_mediator",
         "exp": 17200,
@@ -529,7 +539,8 @@
         "title": "Insomnia",
         "locales": {
             "en": "Insomnia",
-            "ru": "Бессонница"
+            "ru": "Бессонница",
+            "cs": "Insomnie"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Insomnia",
         "exp": 18500,
@@ -562,7 +573,8 @@
         "title": "Test drive. Pt. 1",
         "locales": {
             "en": "Test drive. Pt. 1",
-            "ru": "Тест-драйв. Часть 1"
+            "ru": "Тест-драйв. Часть 1",
+            "cs": "Testovací jízda - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Test_drive_-_Part_1",
         "exp": 31000,
@@ -602,7 +614,8 @@
         "title": "The Punisher - Part 1",
         "locales": {
             "en": "The Punisher - Part 1",
-            "ru": "Каратель"
+            "ru": "Каратель",
+            "cs": "Mstitel - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_1",
         "exp": 10800,
@@ -642,7 +655,8 @@
         "title": "The Punisher - Part 2",
         "locales": {
             "en": "The Punisher - Part 2",
-            "ru": "Каратель. Часть 2"
+            "ru": "Каратель. Часть 2",
+            "cs": "Mstitel - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_2",
         "exp": 13900,
@@ -687,7 +701,8 @@
         "title": "The Punisher - Part 3",
         "locales": {
             "en": "The Punisher - Part 3",
-            "ru": "Каратель. Часть 3"
+            "ru": "Каратель. Часть 3",
+            "cs": "Mstitel - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
         "exp": 12400,
@@ -729,7 +744,8 @@
         "title": "The Punisher - Part 4",
         "locales": {
             "en": "The Punisher - Part 4",
-            "ru": "Каратель. Часть 4"
+            "ru": "Каратель. Часть 4",
+            "cs": "Mstitel - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_4",
         "exp": 19000,
@@ -791,7 +807,8 @@
         "title": "The Punisher - Part 5",
         "locales": {
             "en": "The Punisher - Part 5",
-            "ru": "Каратель. Часть 5"
+            "ru": "Каратель. Часть 5",
+            "cs": "Mstitel - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_5",
         "exp": 19300,
@@ -853,7 +870,8 @@
         "title": "The Punisher - Part 6",
         "locales": {
             "en": "The Punisher - Part 6",
-            "ru": "Каратель. Часть 6"
+            "ru": "Каратель. Часть 6",
+            "cs": "Mstitel - Část 6"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_6",
         "exp": 20600,
@@ -911,7 +929,8 @@
         "title": "Shortage",
         "locales": {
             "en": "Shortage",
-            "ru": "Дефицит"
+            "ru": "Дефицит",
+            "cs": "Nedostatek"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shortage",
         "exp": 500,
@@ -946,7 +965,8 @@
         "title": "Sanitary Standards - Part 1",
         "locales": {
             "en": "Sanitary Standards - Part 1",
-            "ru": "Санэпиднадзор. Часть 1"
+            "ru": "Санэпиднадзор. Часть 1",
+            "cs": "Hygienické standardy - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_1",
         "exp": 2200,
@@ -983,7 +1003,8 @@
         "title": "Sanitary Standards - Part 2",
         "locales": {
             "en": "Sanitary Standards - Part 2",
-            "ru": "Санэпиднадзор. Часть 2"
+            "ru": "Санэпиднадзор. Часть 2",
+            "cs": "Hygienické standardy - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_2",
         "exp": 4500,
@@ -1018,7 +1039,8 @@
         "title": "Painkiller",
         "locales": {
             "en": "Painkiller",
-            "ru": "Пейнкиллер"
+            "ru": "Пейнкиллер",
+            "cs": "Prášky proti bolesti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Painkiller",
         "exp": 4600,
@@ -1054,7 +1076,8 @@
         "title": "Pharmacist",
         "locales": {
             "en": "Pharmacist",
-            "ru": "Провизор"
+            "ru": "Провизор",
+            "cs": "Lékárník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Pharmacist",
         "exp": 5900,
@@ -1098,7 +1121,8 @@
         "title": "Supply plans",
         "locales": {
             "en": "Supply plans",
-            "ru": "Планы снабжения"
+            "ru": "Планы снабжения",
+            "cs": "Zásobovací plány"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supply_plans",
         "exp": 7700,
@@ -1140,7 +1164,8 @@
         "title": "Kind of sabotage",
         "locales": {
             "en": "Kind of sabotage",
-            "ru": "Своего рода саботаж"
+            "ru": "Своего рода саботаж",
+            "cs": "Tak trochu sabotáž"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Kind_of_sabotage",
         "exp": 4600,
@@ -1182,7 +1207,8 @@
         "title": "General wares",
         "locales": {
             "en": "General wares",
-            "ru": "Сельпо"
+            "ru": "Сельпо",
+            "cs": "Běžné zboží"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/General_wares",
         "exp": 5000,
@@ -1217,7 +1243,8 @@
         "title": "Car repair",
         "locales": {
             "en": "Car repair",
-            "ru": "Авторем"
+            "ru": "Авторем",
+            "cs": "Oprava auta"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Car_repair",
         "exp": 7600,
@@ -1261,7 +1288,8 @@
         "title": "Health Care Privacy - Part 1",
         "locales": {
             "en": "Health Care Privacy - Part 1",
-            "ru": "Врачебная тайна. Часть 1"
+            "ru": "Врачебная тайна. Часть 1",
+            "cs": "Soukromá zdravotní péče - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_1",
         "exp": 6500,
@@ -1318,7 +1346,8 @@
         "title": "Health Care Privacy - Part 2",
         "locales": {
             "en": "Health Care Privacy - Part 2",
-            "ru": "Врачебная тайна. Часть 2"
+            "ru": "Врачебная тайна. Часть 2",
+            "cs": "Soukromá zdravotní péče - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_2",
         "exp": 8600,
@@ -1360,7 +1389,8 @@
         "title": "Health Care Privacy - Part 3",
         "locales": {
             "en": "Health Care Privacy - Part 3",
-            "ru": "Врачебная тайна. Часть 3"
+            "ru": "Врачебная тайна. Часть 3",
+            "cs": "Soukromá zdravotní péče - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
         "exp": 9400,
@@ -1397,7 +1427,8 @@
         "title": "Health Care Privacy - Part 4",
         "locales": {
             "en": "Health Care Privacy - Part 4",
-            "ru": "Врачебная тайна. Часть 4"
+            "ru": "Врачебная тайна. Часть 4",
+            "cs": "Soukromá zdravotní péče - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_4",
         "exp": 10200,
@@ -1432,7 +1463,8 @@
         "title": "Health Care Privacy - Part 5",
         "locales": {
             "en": "Health Care Privacy - Part 5",
-            "ru": "Врачебная тайна. Часть 5"
+            "ru": "Врачебная тайна. Часть 5",
+            "cs": "Soukromá zdravotní péče - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_5",
         "exp": 13300,
@@ -1468,7 +1500,8 @@
         "title": "Decontamination Service",
         "locales": {
             "en": "Decontamination Service",
-            "ru": "Служба дезинфекции"
+            "ru": "Служба дезинфекции",
+            "cs": "Dekontaminační služby"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Decontamination_service",
         "exp": 21600,
@@ -1507,7 +1540,8 @@
         "title": "Private clinic",
         "locales": {
             "en": "Private clinic",
-            "ru": "Частная клиника"
+            "ru": "Частная клиника",
+            "cs": "Soukromá klinika"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Private_clinic",
         "exp": 20100,
@@ -1549,7 +1583,8 @@
         "title": "Athlete",
         "locales": {
             "en": "Athlete",
-            "ru": "Физкультурник"
+            "ru": "Физкультурник",
+            "cs": "Sportovec"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Athlete",
         "exp": 19600,
@@ -1584,7 +1619,8 @@
         "title": "Supplier",
         "locales": {
             "en": "Supplier",
-            "ru": "Снабженец"
+            "ru": "Снабженец",
+            "cs": "Dodavatel"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supplier",
         "exp": 3300,
@@ -1628,7 +1664,8 @@
         "title": "The Extortionist",
         "locales": {
             "en": "The Extortionist",
-            "ru": "Вымогатель"
+            "ru": "Вымогатель",
+            "cs": "Vyděrač"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Extortionist",
         "exp": 3200,
@@ -1670,7 +1707,8 @@
         "title": "What's on the flash drive?",
         "locales": {
             "en": "What's on the flash drive?",
-            "ru": "Что на флешке?"
+            "ru": "Что на флешке?",
+            "cs": "Co je na tom flash disku?"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/What%27s_on_the_flash_drive%3F",
         "exp": 4500,
@@ -1709,7 +1747,8 @@
         "title": "Golden swag",
         "locales": {
             "en": "Golden swag",
-            "ru": "Золотые понты"
+            "ru": "Золотые понты",
+            "cs": "Zlatý lup"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Golden_swag",
         "exp": 4600,
@@ -1767,7 +1806,8 @@
         "title": "Chemical - Part 1",
         "locales": {
             "en": "Chemical - Part 1",
-            "ru": "Реагент. Часть 1"
+            "ru": "Реагент. Часть 1",
+            "cs": "Chemikálie - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_1",
         "exp": 4800,
@@ -1809,7 +1849,8 @@
         "title": "Chemical - Part 2",
         "locales": {
             "en": "Chemical - Part 2",
-            "ru": "Реагент. Часть 2"
+            "ru": "Реагент. Часть 2",
+            "cs": "Chemikálie - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2",
         "exp": 4900,
@@ -1860,7 +1901,8 @@
         "title": "Chemical - Part 3",
         "locales": {
             "en": "Chemical - Part 3",
-            "ru": "Реагент. Часть 3"
+            "ru": "Реагент. Часть 3",
+            "cs": "Chemikálie - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_3",
         "exp": 5400,
@@ -1899,7 +1941,8 @@
         "title": "Chemical - Part 4",
         "locales": {
             "en": "Chemical - Part 4",
-            "ru": "Реагент. Часть 4"
+            "ru": "Реагент. Часть 4",
+            "cs": "Chemikálie - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_4",
         "exp": 6600,
@@ -1953,7 +1996,8 @@
         "title": "\"Vitamins\" - Part 1",
         "locales": {
             "en": "\"Vitamins\" - Part 1",
-            "ru": "Витамины. Часть 1"
+            "ru": "Витамины. Часть 1",
+            "cs": "\"Vitamíny\" - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_1",
         "exp": 14100,
@@ -2022,7 +2066,8 @@
         "title": "\"Vitamins\" - Part 2",
         "locales": {
             "en": "\"Vitamins\" - Part 2",
-            "ru": "Витамины. Часть 2"
+            "ru": "Витамины. Часть 2",
+            "cs": "\"Vitamíny\" - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_2",
         "exp": 17200,
@@ -2064,7 +2109,8 @@
         "title": "Friend from the West - Part 1",
         "locales": {
             "en": "Friend from the West - Part 1",
-            "ru": "Друг с запада. Часть 1"
+            "ru": "Друг с запада. Часть 1",
+            "cs": "Přítel ze západu - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_1",
         "exp": 10800,
@@ -2109,7 +2155,8 @@
         "title": "Friend from the West - Part 2",
         "locales": {
             "en": "Friend from the West - Part 2",
-            "ru": "Друг с запада. Часть 2"
+            "ru": "Друг с запада. Часть 2",
+            "cs": "Přítel ze západu - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_2",
         "exp": 9200,
